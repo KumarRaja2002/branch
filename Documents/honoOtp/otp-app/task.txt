@@ -1,0 +1,393 @@
+"Tasks_status":{
+    "total tasks":1000,
+    "To do":100,
+    "in progress":700,
+    "overdue":100,
+    "completed":100
+}
+
+"tasks_list": [
+      {
+        "id": 1,
+        "project": "Quantum Leap",
+        "task_name": "Prepare Monthly Report",
+        "assigned_users": [
+          {
+            "name": "User1"
+            "avatar":"https://avatar.iran.liara.run/public/9"
+          },
+          {
+            "name": "User2"
+            "avatar":"https://avatar.iran.liara.run/public/9"
+          }
+        ],
+        "due_date": "2024-09-15",
+        "status": "To Do",
+        "priority": "Urgent"
+      },
+      {
+        "id": 2,
+        "project": "HyperDrive",
+        "task_name": "Update Client Database",
+        "assigned_users": [
+          {
+            "name": "User3",
+            "avatar":"https://avatar.iran.liara.run/public/2"
+          },
+          {
+            "name": "User4",
+            "avatar":"https://avatar.iran.liara.run/public/27"
+          }
+        ],
+        "due_date": "2024-09-15",
+        "status": "Completed",
+        "priority": "High"
+      },
+      {
+        "id": 3,
+        "project": "CodeFusion",
+        "task_name": "Conduct Market Research",
+        "assigned_users": [
+          {
+            "name": "User5",
+            "avatar":"https://avatar.iran.liara.run/public/17"
+          },
+          {
+            "name": "User6",
+            "avatar":"https://avatar.iran.liara.run/public/21"
+          }
+        ],
+        "due_date": "2024-09-15",
+        "status": "In Progress",
+        "priority": "Medium"
+      }
+    ]
+
+
+    projects:[
+     {
+        "company name":"slack",
+        "project title":"API authentication",
+        "Description":"Developing a new customer management system",
+        "avathar 1":"https://avatar.iran.liara.run/public/43",
+        "avathar 2":"https://avatar.iran.liara.run/public/37",
+        "avathar 3":"https://avatar.iran.liara.run/public/50"
+    },
+    {
+        "company name":"Github",
+        "project title":"user authentication",
+        "Description":"Developing a new customer management system",
+        "avathar 1":"https://avatar.iran.liara.run/public/90",
+        "avathar 2":"https://avatar.iran.liara.run/public/49",
+        "avathar 3":"https://avatar.iran.liara.run/public/23"
+    },
+    {
+        "company name":"instagram",
+        "project title":"reels feeding",
+        "Description":"Developing a new customer management system",
+        "avathar 1":"https://avatar.iran.liara.run/public/92",
+        "avathar 2":"https://avatar.iran.liara.run/public/35",
+    }
+    ]
+project_statistics:{
+    "total tasks":500,
+    "To do":100,
+    "in progress":300,
+    "overdue":50,
+    "completed":50
+}
+}
+
+
+{
+  "project": {
+    "companyName": "Zoom",
+    "projectTitle": "API Authentication",
+    "description": "API authentication involves verifying the identity of users or systems accessing an API to ensure secure and authorized interactions. It typically employs various methods such as API keys, OAuth tokens, JWT (JSON Web Tokens), or basic authentication. These methods help validate requests, control access levels, and protect sensitive data by confirming the legitimacy of the user or system making the API call.",
+    "createdAt": "2023-01-04",
+    "createdBy": {
+      "name": "Sai Chandra",
+      "avatar": "https://avatar.iran.liara.run/public/18"  
+    },
+    "members": [
+      {
+        "id": 1,
+        "avathar":"https://avatar.iran.liara.run/public/39",
+        "name": "Aditi Ramaswamy",
+        "date": "2024-09-15",
+        "tasksAssigned": 24,
+        "role": "Manager"
+      },
+      {
+        "id": 2,
+        "avathar":"https://avatar.iran.liara.run/public/17",
+        "name": "Balveer Dharavad",
+        "dateAdded": "2024-09-15",
+        "tasksAssigned": 24,
+        "role": "Admin",
+      },
+      {
+        "id": 3,
+         "avathar":"https://avatar.iran.liara.run/public/44",
+        "name": "Manan Rathaud",
+        "dateAdded": "2024-09-15",
+        "tasksAssigned": 24,
+        "role": "User"
+      },
+      {
+        "id": 4,
+         "avathar":"https://avatar.iran.liara.run/public/30",
+        "name": "Thanya Singh",
+        "dateAdded": "2024-09-15",
+        "tasksAssigned": 24,
+        "role": "User"
+      }
+    ]
+  }
+
+
+
+  {
+    "project_view": {
+      "companyName": "Zoom",
+      "projectTitle": "API Authentication",
+      "description": "API authentication involves verifying the identity of users or systems accessing an API to ensure secure and authorized interactions. It typically employs various methods such as API keys, OAuth tokens, JWT (JSON Web Tokens), or basic authentication. These methods help validate requests, control access levels, and protect sensitive data by confirming the legitimacy of the user or system making the API call.",
+      "createdAt": "2023-01-04",
+      "createdBy": {
+        "name": "Sai Chandra",
+        "avatar": "https://avatar.iran.liara.run/public/18"
+      },
+      "members": [
+        {
+          "s_no": 1,
+          "avatar": "https://avatar.iran.liara.run/public/39",
+          "name": "Aditi Ramaswamy",
+          "dateAdded": "2024-09-15",
+          "tasksAssigned": 24,
+          "role": "Manager"
+        },
+        {
+          "s_no": 2,
+          "avatar": "https://avatar.iran.liara.run/public/17",
+          "name": "Balveer Dharavad",
+          "dateAdded": "2024-09-15",
+          "tasksAssigned": 24,
+          "role": "Admin"
+        },
+        {
+          "s_no": 3,
+          "avatar": "https://avatar.iran.liara.run/public/44",
+          "name": "Manan Rathaud",
+          "dateAdded": "2024-09-15",
+          "tasksAssigned": 24,
+          "role": "User"
+        },
+        {
+          "s_no": 4,
+          "avatar": "https://avatar.iran.liara.run/public/30",
+          "name": "Thanya Singh",
+          "dateAdded": "2024-09-15",
+          "tasksAssigned": 24,
+          "role": "User"
+        }
+      ]
+    }
+  }
+
+
+
+{
+    "users": [
+      {
+        "s_no": 1,
+        "name": "Nihira Kunwar",
+        "avatar": "https://avatar.iran.liara.run/public/45",
+        "created_on": "15-Sep-2024",
+        "email": "matrangsidhu@email.net",
+        "mobile_number": "9401867909",
+        "status": "Active",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 2,
+        "name": "Lauhit Kamble",
+        "avatar": "https://avatar.iran.liara.run/public/88",
+        "created_on": "15-Sep-2024",
+        "email": "geetha.mesta@aim.in",
+        "mobile_number": "6167057219",
+        "status": "Inactive",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 3,
+        "name": "Chhavi Naik",
+        "avatar": "https://avatar.iran.liara.run/public/45",
+        "created_on": "15-Sep-2024",
+        "email": "ekapadhunagund@yahoo.org",
+        "mobile_number": "6189640888",
+        "status": "Active",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 4,
+        "name": "Parijat Kasambe",
+        "avatar": "https://avatar.iran.liara.run/public/88",
+        "created_on": "15-Sep-2024",
+        "email": "gunasundari.mohanty@worldmail.in",
+        "mobile_number": "8303163542",
+        "status": "Inactive",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 5,
+        "name": "Vidyut Muppalla",
+        "avatar": "https://avatar.iran.liara.run/public/45",
+        "created_on": "15-Sep-2024",
+        "email": "kabbur.aadhav@worldmail.in",
+        "mobile_number": "7953534494",
+        "status": "Active",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 6,
+        "name": "Sai Dasar",
+        "avatar": "https://avatar.iran.liara.run/public/88",
+        "created_on": "15-Sep-2024",
+        "email": "tatavarthy.priyansh@company.org",
+        "mobile_number": "7320105276",
+        "status": "Inactive",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 7,
+        "name": "Aadav Tallapragada",
+        "avatar": "https://avatar.iran.liara.run/public/45",
+        "created_on": "15-Sep-2024",
+        "email": "dodamani.pahal@digital.in",
+        "mobile_number": "7229842369",
+        "status": "Active",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 8,
+        "name": "Ekaant Nagar",
+        "avatar": "https://avatar.iran.liara.run/public/45",
+        "created_on": "15-Sep-2024",
+        "email": "iditrishankar@computer.net",
+        "mobile_number": "8331375187",
+        "status": "Active",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 9,
+        "name": "Velvili Balabhadrapatruni",
+        "avatar": "https://avatar.iran.liara.run/public/45",
+        "created_on": "15-Sep-2024",
+        "email": "rakeshroy@market.com",
+        "mobile_number": "9298056333",
+        "status": "Inactive",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      },
+      {
+        "s_no": 10,
+        "name": "Vikas Sambe",
+        "avatar": "https://avatar.iran.liara.run/public/88",
+        "created_on": "15-Sep-2024",
+        "email": "pant.garima@company.org",
+        "mobile_number": "8934759120",
+        "status": "Active",
+        "tasks": {
+          "progress": 20,
+          "completed": 30,
+          "pending": 40,
+          "overdue": 1
+        }
+      }
+    ],
+    "pagination": {
+      "total": 120,
+      "perPage": 20,
+      "currentPage": 1,
+      "totalPages": 6
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

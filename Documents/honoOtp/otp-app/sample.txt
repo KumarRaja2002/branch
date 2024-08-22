@@ -1,0 +1,14 @@
+//migrations
+create dizzle file
+npm i -D drizzle-kit
+npx drizzle-kit generate
+npx drizzle-kit migrate
+TypeScript offers several advantages over JavaScript, which can be particularly beneficial for larger and more complex projects. Here are some key reasons for using TypeScript:
+Static Typing: TypeScript introduces static types to JavaScript, allowing you to define and enforce types for variables, function parameters, and return values. This helps catch type-related errors at compile time rather than runtime.
+Improved Tooling: With TypeScript, IDEs and editors can provide better autocomplete, inline documentation, and refactoring tools because they have a clearer understanding of the data types used in your code.
+Enhanced Readability and Maintainability: Type annotations and interfaces make the code more self-documenting. This can make it easier for other developers (or yourself in the future) to understand and maintain the codebase.
+Early Error Detection: TypeScript can catch errors early in the development process, which helps reduce runtime errors and bugs that can be costly to debug.
+Object-Oriented Programming (OOP) Features: TypeScript supports OOP concepts like classes, interfaces, and inheritance, providing a more structured way to build applications.
+Compatibility with JavaScript: TypeScript is a superset of JavaScript, meaning any valid JavaScript code is also valid TypeScript code. You can gradually adopt TypeScript in an existing JavaScript project.
+Modern JavaScript Features: TypeScript supports modern JavaScript features and can transpile them down to older versions of JavaScript for compatibility with older browsers or environments.
+Community and Ecosystem: TypeScript has a growing community and ecosystem, including type definitions for popular libraries (via DefinitelyTyped) and support from many modern frameworks and tools.
