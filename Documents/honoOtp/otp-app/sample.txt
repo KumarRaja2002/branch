@@ -3,6 +3,14 @@ create dizzle file
 npm i -D drizzle-kit
 npx drizzle-kit generate
 npx drizzle-kit migrate
+
+ git status
+ git add 
+ git commit -m "hono otp "
+ git push origin main
+ git branch
+ git push origin main
+ git config --list
 TypeScript offers several advantages over JavaScript, which can be particularly beneficial for larger and more complex projects. Here are some key reasons for using TypeScript:
 Static Typing: TypeScript introduces static types to JavaScript, allowing you to define and enforce types for variables, function parameters, and return values. This helps catch type-related errors at compile time rather than runtime.
 Improved Tooling: With TypeScript, IDEs and editors can provide better autocomplete, inline documentation, and refactoring tools because they have a clearer understanding of the data types used in your code.

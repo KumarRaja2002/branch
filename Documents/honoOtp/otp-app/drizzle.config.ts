@@ -13,7 +13,7 @@ export default defineConfig({
     url:String(process.env.DB_URL),
     host: process.env.DB_HOST,
     port: Number(process.env.DB_PORT),
-    database: String(process.env.defaultdb),
+    database: "defaultdb",
     ssl: {
       rejectUnauthorized: false,
       ca:process.env.DB_CA

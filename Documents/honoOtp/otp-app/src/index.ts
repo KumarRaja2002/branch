@@ -2,11 +2,12 @@ import { serve } from '@hono/node-server'
 import { Hono } from 'hono'
 import {config} from 'dotenv'
 import {Client} from 'pg'
-import{ createProfile } from './controllers/profile_controller'
+import { logger } from 'hono/logger'
+import{ createProfile } from './controllers/profileController'
 import {otpRoutes} from './routes'
 config();
 const app = new Hono()
-
+app.use(logger())
 
 app.get('/', (c) => {
   return c.text('Hello Hono!')

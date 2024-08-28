@@ -12,9 +12,11 @@
 //     v.optional( v.maxLength(6))
 //      )
 //  });
- import { object, string, pipe, minLength, maxLength, optional, nonEmpty,startsWith } from 'valibot';
- export const otpSchema = object({
-    phone_number: pipe(string(), minLength(10), maxLength(15), nonEmpty(),startsWith('+91')),
-    code: pipe(optional(string()), optional(minLength(4)), optional(maxLength(6))),
-  });
+//  import { object, string, pipe, minLength, maxLength, optional, nonEmpty,startsWith } from 'valibot';
+//  export const otpSchema = object(//@ts-ignore{//@ts-ignore
+//   //@ts-ignore
+//     phone_number: pipe(string(), minLength(10), maxLength(15), nonEmpty(),startsWith('+91')),
+//     //@ts-ignore
+//     code: pipe(optional(string()), optional(minLength(4)), optional(maxLength(6))),
+//   });
 
