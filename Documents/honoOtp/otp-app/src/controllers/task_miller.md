@@ -9,6 +9,6 @@ https://api.jsonbin.io/v3/b/66c6c247acd3cb34a877c79b   --- tasks list
            project
 https://api.jsonbin.io/v3/b/66c6cb38acd3cb34a877ca56   --- project statistics
 https://api.jsonbin.io/v3/b/66c6cbc0ad19ca34f8994e2a     --- projects
-https://api.jsonbin.io/v3/b/66c6c696acd3cb34a877c8f4    --- project view
+        --- project view
               user
 https://api.jsonbin.io/v3/b/66c6ce1dacd3cb34a877cb36  --- users
